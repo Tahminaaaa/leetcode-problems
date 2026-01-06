@@ -9,7 +9,7 @@ function sumFourDivisors(nums) {
                 d = i;
                 break;
             }
-        }
+        };
 
         if (d === -1) continue;
 
